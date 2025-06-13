@@ -12,15 +12,6 @@ A modern Django web application that converts Excel and CSV files into beautiful
 - 📱 **Mobile Responsive**: Works perfectly on all devices
 - 🎯 **User-friendly**: Intuitive interface with drag-and-drop functionality
 
-## Screenshots
-
-The application features a modern, professional interface with:
-- Clean navigation bar with branding
-- Hero section with gradient background
-- Card-based layout for file upload and graph generation
-- Professional color scheme and typography
-- Responsive design for all screen sizes
-
 ## Installation & Setup
 
 ### Prerequisites
